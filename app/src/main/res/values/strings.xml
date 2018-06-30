@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="title_activity_fill__in">fill_In</string>
+    <string name="sumbit">sumbit</string>
+</resources>
